@@ -1,0 +1,16 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Kiến thức quan trọng về ReactJS",
+        "thumbnail": "url_to_image",
+        "content": "Nội dung về ReactJS",
+        "createdAt": "15/02/2024",
+        "updateAt": "15/02/2024"
+      }
+    ],
+    "categories": [
+      { "id": 1, "name": "Lập trình web" }
+    ]
+  }
+  
